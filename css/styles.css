@@ -1,0 +1,29 @@
+body {
+  background-color: #D1E8E4;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 8px;
+  width: 10%;
+
+}
+
+h1 {
+  color: #161E54;
+}
+
+h3 {
+  color: #105652;
+}
+
+.div2{
+  background-color: #D7E9F7;
+  font-family: Century Gothic;
+}
+.div1 {
+  background-color: #D7E9F7;
+  font-family: Century Gothic;
+}
